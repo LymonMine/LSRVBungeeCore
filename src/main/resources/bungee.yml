@@ -1,0 +1,5 @@
+name: LSRVBungeeCore
+version: 1.0
+main: ru.lymonmine.lsrvbungeecore.main
+author: Limon_MineDel
+depends: ["LuckPerms"]
